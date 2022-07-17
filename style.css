@@ -1,0 +1,33 @@
+body {
+    font-family: sans-serif;
+    background-color: blanchedalmond;
+}
+h1{
+    text-align: center;
+    color: aqua;
+    margin-top: 30px;
+}
+
+header{
+   background-color: blueviolet; 
+   padding: 15px;
+   margin-bottom: 20px;
+}
+
+.link-header{
+    text-decoration: none;
+    background-color:grey ;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.link-nav{
+    background-color: indigo;
+    color: white;
+    text-decoration:none ;
+    padding: 10px;border-radius: 10px;
+}
+
+    h2{
+        color: aqua;
+    }
